@@ -6,5 +6,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "tf_course"{
   bucket = "tf-course-2022-23-06"
+ _comment_acl = "public-read"
   acl = "private"
 }

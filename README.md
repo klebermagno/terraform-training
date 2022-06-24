@@ -1,7 +1,11 @@
-## Terraform course
+# Terraform course
+
+## Example
+
+[futurice](https://github.com/futurice/terraform-examples)
 
 
-# Commands
+## Commands
 
 
 To create a new project 
