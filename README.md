@@ -38,7 +38,7 @@ teraform plan
 `
 
 Terraform graph
-(webgraph)[https://webgraphviz.com]
+[webgraph](https://webgraphviz.com)
 
 `
 Terraform graph
